@@ -3,9 +3,5 @@ welcome to git
 this is third commit
 hello world
 welcome to demo
-<<<<<<< HEAD
 same conflect
 sample conflect
-=======
-sample conflect
->>>>>>> 457e780 (14th commit)
